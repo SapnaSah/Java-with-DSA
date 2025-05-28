@@ -12,6 +12,8 @@ public class print_first_natural_number {
         }
           System.out.println(sum);
           
+
+          
     //     for(int i=1;i<=n;i++){
     //         sum += i;
     //     }
